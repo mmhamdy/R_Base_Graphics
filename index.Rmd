@@ -1,0 +1,14 @@
+--- 
+title: "R Base Graphics"
+author: "Mohammed Hamdy"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+description: |
+  A book exploring R base graphics
+---
+
+# About
+
+A book exploring R base graphics
+

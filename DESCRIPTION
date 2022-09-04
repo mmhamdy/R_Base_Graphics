@@ -1,0 +1,8 @@
+Package: R_Base_Graphics
+Type: Book
+Title: R Base Graphics
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown
+URL: https://github.com/mmhamdy/R_Base_Graphics.git
+BugReports: https://github.com/mmhamdy/R_Base_Graphics/issues
